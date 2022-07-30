@@ -1,0 +1,12 @@
+.search_div {
+    display: flex;
+    justify-content: center;
+    width: 98vw;
+    height: 700px;
+}
+
+.search_div .pagination {
+    width: 100%;
+    text-align: right;
+    margin-bottom: 150px;
+}

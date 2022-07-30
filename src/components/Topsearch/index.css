@@ -1,0 +1,13 @@
+#Topsearch {
+    width: 100%;
+    height: 25vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#Topsearch div.search {
+    width: 60vw;
+}

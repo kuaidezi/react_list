@@ -1,0 +1,16 @@
+#Tablelist {
+    width: 890px;
+    height: 300px;
+    padding: 14px 10px;
+
+}
+
+#ItemVdieoList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Tablelist .pagination {
+    width: 100%;
+    text-align: right;
+}
